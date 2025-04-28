@@ -27,6 +27,7 @@ flutter:
   assets:
      - assets/icons/
      - assets/svgs/
+     - assets/images/
 
   # list giving the asset and other descriptors for the font. For
   # example:

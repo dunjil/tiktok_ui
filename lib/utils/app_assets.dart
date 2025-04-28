@@ -20,3 +20,11 @@ class AppSvgIcons {
   static String chatSVGIcon = "assets/svgs/chat_svg.svg";
   static String accountSVGIcon = "assets/svgs/account_svg.svg";
 }
+
+class AppImages {
+  static String image1 = "assets/images/image1.png";
+  static String image2 = "assets/images/image2.png";
+  static String image3 = "assets/images/image3.png";
+  static String image4 = "assets/images/image4.png";
+  static String profileImage = "assets/images/profile_image.png";
+}
